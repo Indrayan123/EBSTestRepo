@@ -1,1 +1,1 @@
-echo "005asdasd";
+echo "005awerwesdasd";
