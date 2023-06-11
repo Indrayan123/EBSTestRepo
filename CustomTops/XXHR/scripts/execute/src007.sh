@@ -1,2 +1,3 @@
+echo "aaaa";
 echo "asdasd";
 
