@@ -1,1 +1,1 @@
-echo "005awerwesdassdfsfd";
+echo "aaaa";
