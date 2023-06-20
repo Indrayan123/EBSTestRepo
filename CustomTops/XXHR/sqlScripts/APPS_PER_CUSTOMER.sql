@@ -1,4 +1,4 @@
--- Create USER PLSQL block
+-- Create USER PLSQL block  
 
 declare
   tableexists integer;
