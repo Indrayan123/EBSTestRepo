@@ -3,3 +3,4 @@ echo "Second line";
 echo "Third line";
 echo "Forth line";
 echo "Fifth line";
+echo "Version 6";
