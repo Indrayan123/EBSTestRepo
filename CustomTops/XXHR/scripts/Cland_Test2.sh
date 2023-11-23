@@ -1,6 +1,5 @@
 echo "This is seconf version of second file";
 echo "Second line";
-echo "Third line";
+echo "32 line";
 echo "Forth line";
-echo "Fifth line";
-echo "Version 8";
+echo "61 line";
