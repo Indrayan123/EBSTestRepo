@@ -1,1 +1,3 @@
-echo "005asdasd";
+echo "aaaa";
+echo "asdasd";
+
