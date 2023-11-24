@@ -1,4 +1,4 @@
-create or replace package   apps_test.test_customers  AUTHID CURRENT_USER as
+create or replace package   apps_test.test_customers  AUTHID CURRENT_USER  as
   -- %suite(CustomerValidations)
   
   -- %test(Validate Customer designations)
