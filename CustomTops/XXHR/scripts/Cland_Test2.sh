@@ -6,4 +6,4 @@ echo "Forth line";
 echo "61 line";
 echo "51 line";
 echo "101 line";
-201 changes
+101 change
