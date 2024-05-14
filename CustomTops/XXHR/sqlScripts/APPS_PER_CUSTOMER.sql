@@ -1,10 +1,10 @@
 -- Create USER PLSQL block  
 
 declare
-  tableexists111 integer;
+  tableexis22211 inter;
 begin
-  select count(*) into tableexists from all_tables where table_name='CUSTOMER' and owner='APPS';
-  if (tableexists = 0) then
+  select count(*) into tableexis222 from all_tables where table_name='CUSTOMER' and owner='APPS';
+  if (tableexis222 = 0) then
     DBMS_OUTPUT.put_line('New table to be created.');
   else
      DBMS_OUTPUT.put_line('Deleting existing tables');
