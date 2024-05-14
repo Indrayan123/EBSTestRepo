@@ -1,7 +1,7 @@
 -- Create USER PLSQL block  
 
 declare
-  tableexists integer;
+  tableexists111 integer;
 begin
   select count(*) into tableexists from all_tables where table_name='CUSTOMER' and owner='APPS';
   if (tableexists = 0) then
